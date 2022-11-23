@@ -1,0 +1,1 @@
+document.getElementById("dailyVersesWrapper").innerHTML = '\u003cdiv class=\"dailyVerses bibleText\"\u003eTodas as vossas coisas sejam feitas com amor.\u003c/div\u003e\u003cdiv class=\"dailyVerses bibleVerse\"\u003e\u003ca href=\"https://dailyverses.net/pt/2022/11/23\" rel=\"noopener\" target=\"_blank\"\u003e1 Coríntios 16:14\u003c/a\u003e\u003c/div\u003e';
